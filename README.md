@@ -12,3 +12,7 @@
 | #百度云ocrapi<br />baidu.app.id=<br />baidu.api.key=<br />baidu.secret.key= |
 | --- |
 
+## 后端接口信息
+![上传.gif](https://github.com/zy84338719/home-system-f2e/blob/master/demo/%E4%B8%8A%E4%BC%A0.gif)
+![后端接口.gif](https://github.com/zy84338719/home-system-f2e/blob/master/demo/后端接口.gif)
+![对外暴露接口.gif](https://github.com/zy84338719/home-system-f2e/blob/master/demo/对外暴露接口.gif)
