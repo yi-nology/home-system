@@ -1,4 +1,6 @@
-项目采用Spring boot、mybaits3 
+# 项目采用Spring boot、mybaits3 
+单点登录系统早期拆分 https://github.com/zy84338719/sso-system
+
 # 房屋住房管理系统后端
 **开发要求：**<br />数据库默认访问为127.0.0.1:3306/test库，如果需要修改请修改application.properties中mysql访问地址。<br />数据库默认密码为123456。如果需要修改请修改application.properties中mysql密码。
 
